@@ -31,4 +31,4 @@ const News = ({simplified}) => {
   )
 };
 
-export default News;
+export default News; 
